@@ -1,96 +1,82 @@
 {
   "basics": {
-    "name": "José Coelho",
-    "label": "DevOps Engineer",
-    "picture": "images/jcoelho.webp",
-    "x_pictureFallback": "images/jcoelho.jpg",
-    "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 4 years of experience in IT. Currently I’m working as a developer exploring the DevOps world. I’m interested in service management, all sorts of automation and developing front-end and back-end applications.",
+    "name": "PradeepKumar Ramachandran",
+    "label": "Technical Architect ",
+    "Desc": "AWS CSA Professional",
+    "picture": "images/Me.jpg",
+    "x_pictureFallback": "images/Me.jpg",
+    "x_title": "Professional Profile",
+    "summary": "14 years of experience in IT. Currently I’m working as a Technical Architect in Tata Consultancy Services - North America. Designing and building applications on AWS Cloud Platform",
     "location": {
-      "country": "Hungary",
-      "countryCode": "HU",
-      "region": "Budapest"
+      "country": "United States of America",
+      "countryCode": "USA",
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
         "network": "DEV Community",
-        "username": "jcoelho",
-        "url": "https://dev.to/jcoelho",
+        "username": "pradeep2832",
+        "url": "",
         "x_icon":"fab fa-2x fa-dev"
       },
       {
         "network": "LinkedIn",
-        "username": "josecoelho93",
-        "url": "https://www.linkedin.com/in/josecoelho93",
+        "username": "prad1986",
+        "url": "https://www.linkedin.com/in/prad1986/",
         "x_icon": "fab fa-2x fa-linkedin"
       },
       {
         "network": "GitHub",
-        "username": "jcoelho93",
-        "url": "https://github.com/jcoelho93",
+        "username": "pradeep2832",
+        "url": "https://github.com/pradeep2832/",
         "x_icon": "fab fa-2x fa-github"
       }
     ]
   },
   "work": [
     {
-      "company": "Bosch",
-      "position": "DevOps Engineer for automated driving",
-      "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
+      "company": "TCS @ Vanguard",
+      "position": "Technical Architect",
+      "website": "https://www.tcs.com",
+      "startDate": "2020-02-11",
       "endDate": "",
-      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
+      "summary": "Working on solutioning and implementation of Fees platform in Vanguard. Building Cloud Native Apps in AWS",
       "highlights": []
     },
     {
-      "company": "Asseco PST",
+      "company": "Compunnel @ Verizon",
       "position": "DevOps Engineer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2018-04-01",
-      "endDate": "2019-08-30",
-      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
+      "website": "https://www.compunnel.com",
+      "startDate": "2017-02-20",
+      "endDate": "2020-01-31",
+      "summary": "Application Architect and have implement Location lookup Services and performed multiple large scale cloud migrations",
       "highlights": []
     },
     {
-      "company": "Asseco PST",
-      "position": "Backend Developer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2017-08-16",
-      "endDate": "",
-      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
-      "highlights": []
-    },
-    {
-      "company": "European GNSS Agency",
-      "position": "IT Support Technician",
-      "website": "https://www.gsa.europea.eu",
-      "startDate": "2016-05-01",
-      "endDate": "",
-      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
-      "highlights": []
-    },
-    {
-      "company": "Empresa de Electricidade da Madeira",
-      "position": "IT Support Technician",
-      "website": "https://www.eem.pt",
-      "startDate": "2015-03-01",
-      "endDate": "",
-      "summary": "My first real work experience. Interning as an IT Support Technician I was able to learn and explore way more than the workings of a big IT Infrastructure. I got to work with PowerShell scripting, PHP and email marketing.",
+      "company": "Accenture @ American Express",
+      "position": "Technical Lead",
+      "website": "https://www.Accenture.com",
+      "startDate": "2011-09-26",
+      "endDate": "2016-19-03",
+      "summary": "Technical Lead in Cards and Payments and have build multiple backend web services",
       "highlights": []
     }
+
   ],
   "education": [
     {
-      "institution": "University of Madeira",
-      "area": "Computer Engineering",
+      "institution": "MIT Campus , Anna University",
+      "area": "Information Technology",
       "studyType": "Bachelor",
-      "startDate": "2011-09-15",
-      "endDate": "2019-06-07",
+      "startDate": "2003-07-17",
+      "endDate": "2007-05-01",
       "courses": [
         "Object Oriented Programming",
         "Database Management Systems",
         "Operating systems and computers architectures",
-        "Requirements Engineering"
+        "Software Engineering",
+        "Theory of Computation",
+        "Cloud Computing"
       ]
     }
   ],

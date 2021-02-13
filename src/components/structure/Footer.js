@@ -5,9 +5,14 @@ function Footer() {
     <footer className="footer has-background-link">
       <div className="content has-text-centered has-text-white">
         <p>
-          Built at <i className="fas fa-moon"></i> by{" "}
+          Built at <i className="fas fa-home"></i> by{" "}
+          <a href="https://github.com/pradeep2832" className="has-text-white">
+            <strong>Pradeep</strong>
+          </a>
+        </p>
+        <p> Credits to <i className="fas fa-home"></i> by{" "}
           <a href="https://github.com/jcoelho93" className="has-text-white">
-            <strong>José Coelho</strong>
+          <strong>José Coelho</strong>
           </a>
         </p>
         <p>
